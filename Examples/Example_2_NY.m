@@ -1,9 +1,22 @@
 % Example_2_NY: Mesh the New York region in high resolution
 clearvars; clc;
 
-addpath(genpath('../utilities/'))
-addpath(genpath('../datasets/'))
-addpath(genpath('../m_map/'))
+if ismac    % On Mac
+    basedir = '/Users/yulong/GitHub/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+elseif isunix       % Unix?
+    basedir = '/home/usr0/n70110d/github/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+elseif ispc     % Or Windows?
+    basedir = 'C:/Users/Yulong WANG/Documents/GitHub/';      
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+end
 
 %% STEP 1: Set mesh extents and set parameters for mesh.
 min_el    = 30;  	% Minimum resolution in meters.

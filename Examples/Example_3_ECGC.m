@@ -3,9 +3,22 @@
 
 clearvars; clc;
 
-addpath(genpath('../utilities/'));
-addpath(genpath('../datasets/'));
-addpath(genpath('../m_map/'));
+if ismac    % On Mac
+    basedir = '/Users/yulong/GitHub/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+elseif isunix       % Unix?
+    basedir = '/home/usr0/n70110d/github/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+elseif ispc     % Or Windows?
+    basedir = 'C:/Users/Yulong WANG/Documents/GitHub/';      
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+end
 
 % WJP: 08/02/2019: Updated to demonstrate using non-box 
 % (arbitrary polygon's) bbox's in both outer and inner meshes

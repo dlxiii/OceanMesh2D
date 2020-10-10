@@ -4,9 +4,17 @@
 % around 1 hr. 
 clc; clearvars
 
-addpath(genpath('../utilities/'))
-addpath(genpath('../datasets/'))
-addpath(genpath('../m_map/'))
+if ismac    % On Mac
+    basedir = '/Users/yulong/GitHub/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/l']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/PostSandyNCEI/']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/PR_1arcsec/']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/SanJuan_1 9arcsec/']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/USVI_1arcsec/']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/']);
+end
 
 %% The constant parameters for all domains
 wl        = 30;         % elements to resolve M2 wavelength
@@ -23,7 +31,7 @@ min_el = 1000;  		% minimum resolution in meters.
 max_el = 10e3;       	% maximum resolution in meters. 
 
 coastline = 'GSHHS_f_L1';
-dem       = 'SRTM15+V2.nc';
+dem       = 'SRTM15+V2.1.nc';
 gdat{1} = geodata('shp',coastline,...
                   'dem',dem,...
                   'bbox',bbox,...

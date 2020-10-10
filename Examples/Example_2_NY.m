@@ -3,19 +3,10 @@ clearvars; clc;
 
 if ismac    % On Mac
     basedir = '/Users/yulong/GitHub/';
-    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/']);
+    addpath([basedir,'/map_lab/m_map/']);
     addpath([basedir,'OceanMesh2D/datasets/']);
-    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
-elseif isunix       % Unix?
-    basedir = '/home/usr0/n70110d/github/';
-    addpath([basedir,'OceanMesh2D/utilities/']);
-    addpath([basedir,'OceanMesh2D/datasets/']);
-    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
-elseif ispc     % Or Windows?
-    basedir = 'C:/Users/Yulong WANG/Documents/GitHub/';      
-    addpath([basedir,'OceanMesh2D/utilities/']);
-    addpath([basedir,'OceanMesh2D/datasets/']);
-    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/PostSandyNCEI/']);
 end
 
 %% STEP 1: Set mesh extents and set parameters for mesh.

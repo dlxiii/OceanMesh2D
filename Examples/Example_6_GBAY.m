@@ -3,9 +3,14 @@
 
 clearvars; clc;
 
-addpath(genpath('../utilities/'))
-addpath(genpath('../datasets/'))
-addpath(genpath('../m_map/'))
+if ismac    % On Mac
+    basedir = '/Users/yulong/GitHub/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/US_Medium_Shoreline']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/']);
+end 
 
 %% STEP 1: set mesh extents and set parameters for mesh.
 bbox = [-95.40 -94.4;

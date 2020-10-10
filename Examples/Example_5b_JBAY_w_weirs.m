@@ -3,9 +3,14 @@
 % high resolution with two 15-30 m wide weirs at the mouth of the estuary.
 clc; clearvars
 
-addpath(genpath('../utilities/'));
-addpath(genpath('../datasets/'));
-addpath(genpath('../m_map/'));
+if ismac    % On Mac
+    basedir = '/Users/yulong/GitHub/';
+    addpath([basedir,'OceanMesh2D/utilities/']);
+    addpath([basedir,'OceanMesh2D/datasets/']);
+    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/PostSandyNCEI/']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/']);
+end 
 
 %% STEP 1: set mesh extents and set parameters for mesh.
 bbox      = [-73.97 -73.75 	% lon_min lon_max
@@ -24,8 +29,8 @@ dem       = 'PostSandyNCEI.nc';
 load weirs_struct.mat
 % Weirs is an array of
 %  structs each with fields:
-%              X: [N—1 double] % x georgraphic coordinates of crestline
-%              Y: [N—1 double] % y geographic coordinates of crestline
+%              X: [Nï¿½1 double] % x georgraphic coordinates of crestline
+%              Y: [Nï¿½1 double] % y geographic coordinates of crestline
 %          width: 5 % seperation of front and back face in meters
 %        min_ele: 20 % minimum resolution along faces of weir in meters
 %    crestheight: 5 % in meters

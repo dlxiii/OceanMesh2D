@@ -8,16 +8,8 @@ if ismac    % On Mac
     addpath([basedir,'OceanMesh2D/utilities/']);
     addpath([basedir,'OceanMesh2D/datasets/']);
     addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
-elseif isunix       % Unix?
-    basedir = '/home/usr0/n70110d/github/';
-    addpath([basedir,'OceanMesh2D/utilities/']);
-    addpath([basedir,'OceanMesh2D/datasets/']);
-    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
-elseif ispc     % Or Windows?
-    basedir = 'C:/Users/Yulong WANG/Documents/GitHub/';      
-    addpath([basedir,'OceanMesh2D/utilities/']);
-    addpath([basedir,'OceanMesh2D/datasets/']);
-    addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/PostSandyNCEI/']);
+    addpath(['/Volumes/Yulong/data/OceanMesh2D_Datasets/']);
 end
 
 % WJP: 08/02/2019: Updated to demonstrate using non-box 

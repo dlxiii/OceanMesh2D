@@ -1,0 +1,588 @@
+forward projecting to get (x,y)
+Estimated time step:	2.18
+Calculating open boundary forcing data from OTPS...
+Position 1 of 44 (140.378 35.127)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 2 of 44 (140.376 35.119)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 3 of 44 (140.372 35.103)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 4 of 44 (140.365 35.087)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 5 of 44 (140.360 35.074)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 6 of 44 (140.346 35.045)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 7 of 44 (140.336 35.027)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 8 of 44 (140.323 35.007)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 9 of 44 (140.307 34.984)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 10 of 44 (140.277 34.948)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 11 of 44 (140.244 34.916)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 12 of 44 (140.196 34.877)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 13 of 44 (140.149 34.846)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 14 of 44 (140.097 34.818)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 15 of 44 (140.053 34.799)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 16 of 44 (140.009 34.783)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 17 of 44 (139.960 34.769)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 18 of 44 (139.914 34.759)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 19 of 44 (139.865 34.752)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 20 of 44 (139.816 34.747)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 21 of 44 (139.770 34.746)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 22 of 44 (139.724 34.747)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 23 of 44 (139.669 34.752)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 24 of 44 (139.613 34.761)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 25 of 44 (139.549 34.776)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 26 of 44 (139.505 34.790)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 27 of 44 (139.475 34.802)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 28 of 44 (139.448 34.813)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 29 of 44 (139.419 34.827)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 30 of 44 (139.394 34.841)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 31 of 44 (139.373 34.854)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 32 of 44 (139.347 34.871)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 33 of 44 (139.316 34.894)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 34 of 44 (139.281 34.925)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 35 of 44 (139.253 34.953)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 36 of 44 (139.232 34.979)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 37 of 44 (139.213 35.004)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 38 of 44 (139.201 35.022)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 39 of 44 (139.192 35.040)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 40 of 44 (139.181 35.060)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 41 of 44 (139.171 35.082)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 42 of 44 (139.162 35.108)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpol

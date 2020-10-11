@@ -4,6 +4,8 @@
 %%%                       目录设置
 %%%------------------------------------------------------------------------
 
+clearvars; clc;
+
 % If you are developing the code
 % "1" means create file and take time
 % "2" means load developed mat files

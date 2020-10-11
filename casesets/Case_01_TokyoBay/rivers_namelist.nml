@@ -1,36 +1,36 @@
  &NML_RIVER
   RIVER_NAME          = 'Edogawa',
   RIVER_FILE          = 'tokyobay_river.nc',
-  RIVER_GRID_LOCATION = 3,
+  RIVER_GRID_LOCATION = 1,
   RIVER_VERTICAL_DISTRIBUTION = 'uniform'
   /
  &NML_RIVER
   RIVER_NAME          = 'Nakagawa_Arakawa',
   RIVER_FILE          = 'tokyobay_river.nc',
-  RIVER_GRID_LOCATION = 844,
+  RIVER_GRID_LOCATION = 1391,
   RIVER_VERTICAL_DISTRIBUTION = 'uniform'
   /
  &NML_RIVER
   RIVER_NAME          = 'Sumidagawa',
   RIVER_FILE          = 'tokyobay_river.nc',
-  RIVER_GRID_LOCATION = 18820,
+  RIVER_GRID_LOCATION = 20962,
   RIVER_VERTICAL_DISTRIBUTION = 'uniform'
   /
  &NML_RIVER
   RIVER_NAME          = 'Tamagawa',
   RIVER_FILE          = 'tokyobay_river.nc',
-  RIVER_GRID_LOCATION = 1377,
+  RIVER_GRID_LOCATION = 2685,
   RIVER_VERTICAL_DISTRIBUTION = 'uniform'
   /
  &NML_RIVER
   RIVER_NAME          = 'Tsurumigawa',
   RIVER_FILE          = 'tokyobay_river.nc',
-  RIVER_GRID_LOCATION = 1057,
+  RIVER_GRID_LOCATION = 2604,
   RIVER_VERTICAL_DISTRIBUTION = 'uniform'
   /
  &NML_RIVER
   RIVER_NAME          = 'Ebigawa',
   RIVER_FILE          = 'tokyobay_river.nc',
-  RIVER_GRID_LOCATION = 5389,
+  RIVER_GRID_LOCATION = 7989,
   RIVER_VERTICAL_DISTRIBUTION = 'uniform'
   /

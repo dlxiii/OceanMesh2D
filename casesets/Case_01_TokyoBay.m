@@ -35,7 +35,7 @@ y_bond_01 = [35.859592	 35.225989	35.182486  35.139579  35.097818 ...
     34.983607  35.019512  35.057672  35.097818 35.139579 ...
     35.182486  35.225989  35.859592	 35.859592];
 bbox_01       = [x_bond_01',y_bond_01'];
-min_el_01    = 9e2;  	   % minimum resolution in meters.
+min_el_01    = 6e2;  	   % minimum resolution in meters.
 max_el_01    = 20e3; 	   % maximum resolution in meters. 
 wl_01        = 30;         % 60 elements resolve M2 wavelength.
 dt_01        = 0;          % Automatically set timestep based on nearshore res
@@ -63,17 +63,17 @@ fh_01 = edgefx('geodata',gdat_01,...
              'dt',dt_01,'g',grade_01);
           
 %% Repeat STEPS 1-3 for a high resolution domain for High Res New York Part
-min_el_02    = 6e2;  		% minimum resolution in meters.
+min_el_02    = 3e2;  		% minimum resolution in meters.
 max_el_02    = 9e2; 		% maximum resolution in meters. 
 wl_02        = 10;
 dt_02        = 0;
 grade_02     = 0.35;       % mesh grade in decimal percent. 
-R_02         = 5; 		   % Number of elements to resolve feature.
-slp_02       = 30;         % 2*pi/number of elements to resolve slope
-fl_02        = -50;
+R_02         = 6; 		   % Number of elements to resolve feature.
+slp_02       = 100;         % 2*pi/number of elements to resolve slope
+fl_02        = -200;
 
 coastline_02 = 'C23-06_TOKYOBAY_OUTER'; 
-dem_02       = 'depth_0090-06+07.nc';
+dem_02       = 'depth_0090-05+06+07.nc';
 
 x_bond_02 = [140.1708 140.1727 139.6147 139.6147 139.6478 ...
              139.6481 139.6814 139.7542 139.7632 139.8618 ...
@@ -105,7 +105,7 @@ slp_03       = 50;         % 2*pi/number of elements to resolve slope
 fl_03        = -10;
 
 coastline_03 = 'C23-06_TOKYOBAY_INNER'; 
-dem_03       = 'depth_0010-16+17+18+19+20+21+22+23.nc';
+dem_03       = 'depth_0030-11+12+13+14+15.nc';
 
 x_bond_03 = [139.6186 139.7978 140.1562 140.1590 139.9604 ...
              139.9070 139.8663 139.7839 139.7461 139.6341 ...
@@ -128,15 +128,22 @@ fh_03 = edgefx('geodata',gdat_03,...
 
 %% STEP 4: Pass your edgefx class object along with some meshing options 
 %% and build the mesh...
-mshopts = meshgen('ef',{fh_01 fh_02 fh_03},'bou',{gdat_01 gdat_02 gdat_03},...
-                  'plot_on',1,'proj','lam', 'itmax',200);
+mshopts = meshgen(...
+                  'ef',{fh_01 fh_02 fh_03},...
+                  'bou',{gdat_01 gdat_02 gdat_03},...
+                  'plot_on',1,...
+                  'itmax',200);
+                  % 'proj','lam',...
 mshopts = mshopts.build; 
 
 %% Plot and save the msh class object/write to fort.14
 m = mshopts.grd; % get out the msh object
 m = interp(m,{gdat_01 gdat_02 gdat_03},'mindepth',0.05); % interpolate bathy to the mesh with minimum depth of 1 m
 m = make_bc(m,'auto',gdat_01);               % make the nodestring boundary conditions
+% m = make_bc(m,'auto',gdat_01,'depth',20);
 plot(m,'bd',1); % plot on native projection with nodestrings
 plot(m,'b',1); % plot bathy on native projection
 plot(m,'reso',1,[],[],[10, 0 10e3]) % plot the resolution
-save('case_01_tokyobay.mat','m'); write(m,'case_01_tokyobay');
+save('case_01_tokyobay.mat','m'); 
+save('case_01_tokyobay.mat','m'); 
+write(m,'case_01_tokyobay');

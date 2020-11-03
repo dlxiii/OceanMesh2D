@@ -1,0 +1,1599 @@
+forward projecting to get (x,y)
+Estimated time step:	5.03
+Calculating open boundary forcing data from OTPS...
+Position 1 of 48 (140.380 35.132)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 2 of 48 (140.375 35.116)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 3 of 48 (140.372 35.103)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 4 of 48 (140.368 35.093)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 5 of 48 (140.362 35.079)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 6 of 48 (140.358 35.069)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 7 of 48 (140.350 35.058)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 8 of 48 (140.345 35.043)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 9 of 48 (140.332 35.020)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 10 of 48 (140.313 34.992)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 11 of 48 (140.290 34.964)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 12 of 48 (140.257 34.928)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 13 of 48 (140.206 34.884)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 14 of 48 (140.157 34.851)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 15 of 48 (140.098 34.818)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 16 of 48 (140.045 34.796)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 17 of 48 (140.004 34.782)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 18 of 48 (139.965 34.771)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 19 of 48 (139.930 34.762)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 20 of 48 (139.895 34.756)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 21 of 48 (139.857 34.751)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 22 of 48 (139.816 34.747)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 23 of 48 (139.780 34.746)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 24 of 48 (139.732 34.747)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 25 of 48 (139.703 34.757)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 26 of 48 (139.662 34.755)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 27 of 48 (139.615 34.760)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 28 of 48 (139.560 34.773)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 29 of 48 (139.490 34.796)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 30 of 48 (139.456 34.810)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 31 of 48 (139.432 34.821)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 32 of 48 (139.399 34.838)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 33 of 48 (139.378 34.850)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 34 of 48 (139.355 34.866)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 35 of 48 (139.321 34.889)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 36 of 48 (139.284 34.922)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 37 of 48 (139.255 34.959)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 38 of 48 (139.228 34.984)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 39 of 48 (139.212 35.007)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 40 of 48 (139.200 35.025)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 41 of 48 (139.192 35.040)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 42 of 48 (139.182 35.058)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 43 of 48 (139.173 35.079)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 44 of 48 (139.164 35.101)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 45 of 48 (139.160 35.113)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 46 of 48 (139.157 35.124)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 47 of 48 (139.151 35.145)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 48 of 48 (139.149 35.158)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Tidal forcing working time: 1.30 minutes
+Reading river forcing file...
+WARNING: River time begin from 2014-01-01 00:00:00
+Done!
+Writing river forcing file...
+Done!
+%%
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+clear all;
+clc;
+Undefined function 'loadNetCDF' for input arguments of type 'string'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', '/Volumes/Yulong/20201024_new_mesh/otp/main.m', 30)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('/Volumes/Yulong/20201024_new_mesh/otp/main.m',30,0)">line 30</a>)
+nc = loadNetCDF(ncfile,nc);
+
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+filename = '101_03_water_age.gif'; 
+for tt = 1:7*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+fig = figure(01);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+%%
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_03_water_age.gif'; 
+for tt = 1:14*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+%%
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+fig = figure(01);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+clear all;
+clc;
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(01);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(01);
+for tt = 9*24+1:11*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(01);
+for tt = 11*24+1:13*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(01);
+for tt = 12*24+1:13*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(01);
+for tt = 12*24+1:13*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_dye.gif'; 
+for tt = 12*24+1:13*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wgifc')" style="font-weight:bold">wgifc</a>
+Can only append to GIF89a format GIFs.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('writegif', '/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/private/writegif.m', 306)" style="font-weight:bold">writegif</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/private/writegif.m',306,0)">line 306</a>)
+wgifc(mat, map, filename,writemode,disposalmethod,delaytime,...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imwrite', '/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/imwrite.m', 546)" style="font-weight:bold">imwrite</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/imwrite.m',546,0)">line 546</a>)
+        feval(fmt_s.write, data, map, filename, paramPairs{:});
+} 
+fig = figure(01);
+for tt = 12*24+1:13*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+tt = 12*24+12
+
+tt =
+
+   300
+
+plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+tt = 12*24+15
+
+tt =
+
+   303
+
+'dye',{'Concentration (-)',[0,1]});
+ 'dye',{'Concentration (-)',[0,1]});
+                                  ↑
+{Error: Invalid expression. When calling a function or indexing a variable, use
+parentheses. Otherwise, check for mismatched delimiters.
+} 
+plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+12*24+14
+
+ans =
+
+   302
+
+plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+tt = 12*24+13
+
+tt =
+
+   301
+
+plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+fig = figure(01);
+for tt = 1:12*24+13%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(01);
+for tt = 1:12*24+13%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_dye.gif'; 
+for tt = 1:12*24+13%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+fig = figure(01);
+for tt = 1:12*24+13%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_dye_zoomout.gif'; 
+for tt = 1:12*24+13%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+load('case_02_tokyobay.mat')
+plot(m,'bd',1); % plot on native projection with nodestrings
+Current mapping parameters -
+ Projection: Equidistant Cylindrical  (function: mp_cyl)
+ longitudes: 139.1423      140.3908                     
+ Latitudes: 34.746      35.7679                         
+%%
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[-100,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,1000]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Dot indexing is not supported for variables of this type.
+
+Error in alternateGetframe
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 136)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',136,0)">line 136</a>)
+x = alternateGetframe(parentFig, offsetRect, scaledOffsetRect, includeDecorations);
+} 
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+plot(water_age(20221,1:19*24+1));
+plot(water_age(20221,1:19*24+1));
+plot(water_age(17176,1:352));
+plot(water_age(7421,1:1:19*24+1));
+plot(water_age(5348,1:552));
+plot(water_age(4891,1:552));
+plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+plot(water_age(17685,1:1:19*24+1));
+plot(water_age(20221,1:19*24+1));
+plot(water_age(20221,1:19*24+1));
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+plot(water_age(7421,1:1:19*24+1));
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+fig = figure(01);
+for tt = 1:12*24+13%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:14*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,100]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_03_water_age_tideyes_long_zoomin5.gif'; 
+for tt = 1:19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+fig = figure(03);
+for tt = 1:length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_03_water.gif'; 
+for tt = 1:length(nc.time)%19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+plot(water_age(20221,1:19*24+1));
+plot(water_age(20221,1:19*24+1));
+plot(water_age(17176,1:352));
+plot(water_age(7421,1:1:19*24+1));
+plot(water_age(5348,1:552));
+plot(water_age(7421,1:1:19*24+1));
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_03_water_age_zm1.gif'; 
+for tt = 1:length(nc.time)%19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+fig = figure(01);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_dye_zm1.gif'; 
+for tt = 1:19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+clear all;
+clc;
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_03_water_age_zm1.gif'; 
+for tt = 1:length(nc.time)%19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+{Index exceeds the number of array elements (457).
+} 
+zz=1;
+water_mask = squeeze(nc.dye(:,zz,:)<=1E-6);
+water_age = squeeze(nc.dye_age(:,zz,:)./nc.dye(:,zz,:));
+water_age(water_mask)=nan;
+water_age=water_age/24/60;
+
+% plot(water_age(20221,1:19*24+1));
+% plot(water_age(17176,1:352));
+% plot(water_age(7421,1:1:19*24+1));
+% plot(water_age(5348,1:552));
+% plot(water_age(4891,1:552));
+
+% plot(squeeze(nc.dye(17685,1,1:1:19*24+1)));
+% plot(water_age(17685,1:1:19*24+1));
+
+% nc.dye_age(:,1,tt)./nc.dye(:,1,tt)
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+length(nc.time)
+
+ans =
+
+   673
+
+tt=673
+
+tt =
+
+   673
+
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,100]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,300]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,300]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,300]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,300]});
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,300]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 55)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',55,0)">line 55</a>)
+A valid figure or axes handle must be specified
+} 
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+{Dot indexing is not supported for variables of this type.
+
+Error in alternateGetframe
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('getframe', '/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m', 136)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/graphics/printing/getframe.m',136,0)">line 136</a>)
+x = alternateGetframe(parentFig, offsetRect, scaledOffsetRect,
+includeDecorations);
+} 
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+fig = figure(03);
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    plotMesh(03, [nc.lon, nc.lat], nc.tri, water_age(:,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye age',{'Time (day)',[0,200]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_03_water_age_zm2.gif'; 
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imwrite', '/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/imwrite.m', 528)" style="font-weight:bold">imwrite</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/imwrite.m',528,0)">line 528</a>)
+Unable to open file "101_03_water_age_zm2.gif" for writing.  You
+might not have write permission.
+} 
+filename = '101_03_water_age_zm2.gif'; 
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imwrite', '/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/imwrite.m', 528)" style="font-weight:bold">imwrite</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2019a.app/toolbox/matlab/imagesci/imwrite.m',528,0)">line 528</a>)
+Unable to open file "101_03_water_age_zm2.gif" for writing.  You
+might not have write permission.
+} 
+filename = '101_03_water_age_zm2.gif'; 
+for tt = 1:19*24+1%length(nc.time)%19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end
+fig = figure(01);
+for tt = 1:19*24+1%length(nc.time)
+    plotMesh(01, [nc.lon, nc.lat], nc.tri, nc.dye(:,1,tt),...
+        'time',nc.Times(tt,1:19),...
+        'dye',{'Concentration (-)',[0,1]});
+    drawnow
+    frame = getframe(fig);
+    im{tt} = frame2im(frame);
+end
+filename = '101_dye_zm2.gif'; 
+for tt = 1:19*24+1%length(nc.time)
+    [A,map] = rgb2ind(im{tt},256);
+    if tt == 1
+        imwrite(A,map,filename,'gif','LoopCount',Inf,'DelayTime',1);
+    else
+        imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.05);
+    end
+end

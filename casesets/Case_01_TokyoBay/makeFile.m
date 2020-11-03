@@ -15,6 +15,7 @@ develop_mode = 1;
 % Which system am I using?
 if ismac    % On Mac
     basedir = '/Users/yulong/GitHub/';
+    basedir2 = '/Volumes/Yulong/data/';
     addpath([basedir,'fvcomtoolbox/']);
     addpath([basedir,'fvcomtoolbox/fvcom_prepro/']);
     addpath([basedir,'fvcomtoolbox/utilities/']);
@@ -176,19 +177,19 @@ inputConf.tidesMJD = inputConf.startDateMJD:inputConf.datetide:inputConf.endDate
 % inputConf.obc_salt = 'HYCOM';
 % inputConf.obctsMJD = [inputConf.startDateMJD, inputConf.endDateMJD + 1];
 
-% % Increment used for surface forcing (days)
-% inputConf.dateforcing = 1/24;
-% % The surface forcing from NCEP
-% % The data is avaliable from 1948 - present
+% Increment used for surface forcing (days)
+inputConf.dateforcing = 1/24;
+% The surface forcing from NCEP
+% The data is avaliable from 1948 - present
 % inputConf.doForcing = 'NCEP-CALCULATED';
-% inputConf.doForcing = 'GWO';
-% if strcmpi(inputConf.doForcing, 'GWO')
-%     inputConf.forceMJD = inputConf.startDateMJD:inputConf.dateforcing:inputConf.endDateMJD;
-% elseif strcmpi(inputConf.doForcing, 'NCEP')
-%     inputConf.forceMJD = [inputConf.startDateMJD, inputConf.endDateMJD];
-% elseif strcmpi(inputConf.doForcing, 'NCEP-CALCULATED')
-%     inputConf.forceMJD = [inputConf.startDateMJD, inputConf.endDateMJD];
-% end
+inputConf.doForcing = 'GWO';
+if strcmpi(inputConf.doForcing, 'GWO')
+    inputConf.forceMJD = inputConf.startDateMJD:inputConf.dateforcing:inputConf.endDateMJD;
+elseif strcmpi(inputConf.doForcing, 'NCEP')
+    inputConf.forceMJD = [inputConf.startDateMJD, inputConf.endDateMJD];
+elseif strcmpi(inputConf.doForcing, 'NCEP-CALCULATED')
+    inputConf.forceMJD = [inputConf.startDateMJD, inputConf.endDateMJD];
+end
 
 % The river forcing from flux, salinity and temperature
 inputConf.riverForcing = 'FLUX';
@@ -753,10 +754,10 @@ fprintf('Tidal forcing working time: %.2f minutes\n', toc / 60);
 % % plot temp and salt
 % % plot(datetime(Mobj.ts_times+678942,'ConvertFrom','datenum','TimeZone','Asia/Tokyo'),squeeze(Mobj.temperature(1,1,:)));
 % % plot(datetime(Mobj.ts_times+678942,'ConvertFrom','datenum','TimeZone','Asia/Tokyo'),squeeze(Mobj.salt(1,1,:)));
-% 
-% %%%------------------------------------------------------------------------
-% %%%                     Meteorology and output
-% %%%------------------------------------------------------------------------
+%%
+%%%------------------------------------------------------------------------
+%%%                     Meteorology and output
+%%%------------------------------------------------------------------------
 % % Get the surface heating data.
 % if strcmpi(inputConf.doForcing, 'NCEP')
 %     % Use the OPeNDAP NCEP script to get the following parameters:
@@ -922,72 +923,90 @@ fprintf('Tidal forcing working time: %.2f minutes\n', toc / 60);
 % %     fver=inputConf.FVCOM_version;
 % end
 % 
-% if strcmpi(inputConf.doForcing, 'GWO')
-%     Mobj.gwo.time = inputConf.forceMJD';
-%     load(fullfile(basedir,'gwo\data\output\wnd.mat'));
-%     Mobj.gwo.uwnd.node = [wnd(1,2);wnd(1:length(inputConf.forceMJD)-1,2)]';
-%     Mobj.gwo.vwnd.node = [wnd(1,3);wnd(1:length(inputConf.forceMJD)-1,3)]';
-%     Mobj.gwo.uwnd.data = [wnd(1,2);wnd(1:length(inputConf.forceMJD)-1,2)]';
-%     Mobj.gwo.vwnd.data = [wnd(1,3);wnd(1:length(inputConf.forceMJD)-1,3)]';
-%     load(fullfile(basedir,'gwo\data\output\nhf.mat'));
+%%
+%%%------------------------------------------------------------------------
+%%%                     Meteorology and output
+%%%------------------------------------------------------------------------
+% Get the surface heating data.
+% Use the GWO data to get the following parameters:
+% - u wind component (uwnd)[m/s]                                : for wind
+% - v wind component (vwnd)[m/s]                                : for wind
+% - Precipitation rate (prate)[Kg/m^2/s]                        : for precipitation
+% - Latent Heat Net Flux at Surface (lhtfl)[W/m^2]              : for evaporation
+
+% - Downward Solar Radiation Flux at Surface (dswrf) [W/m^2]    : for heat flux
+
+% - Sea level pressure (pres) [Pa]                              : for air pressure
+% - Air temperature at 2 m (air) [Kelvins]
+% - Relative Humidity on Pressure Levels (rhum) [%]
+
+
+if strcmpi(inputConf.doForcing, 'GWO')
+    Mobj.gwo.time = inputConf.forceMJD';
+    load(fullfile(basedir2,'environment/gwo/data/output/wnd.mat'));
+    Mobj.gwo.uwnd.node = [wnd(1,2);wnd(1:length(inputConf.forceMJD)-1,2)]';
+    Mobj.gwo.vwnd.node = [wnd(1,3);wnd(1:length(inputConf.forceMJD)-1,3)]';
+    Mobj.gwo.uwnd.data = [wnd(1,2);wnd(1:length(inputConf.forceMJD)-1,2)]';
+    Mobj.gwo.vwnd.data = [wnd(1,3);wnd(1:length(inputConf.forceMJD)-1,3)]';
+%     load(fullfile(basedir2,'gwo\data\output\nhf.mat'));
 %     Mobj.gwo.hfx.node = [nhf(1,2);nhf(1:length(inputConf.forceMJD)-1,2)]';
 %     Mobj.gwo.hfx.data = [nhf(1,2);nhf(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\qr.mat'));
+%     load(fullfile(basedir2,'gwo\data\output\qr.mat'));
 %     Mobj.gwo.nswrs.node = [qr(1,2);qr(1:length(inputConf.forceMJD)-1,2)]';
 %     Mobj.gwo.nswrs.data = [qr(1,2);qr(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\ql.mat'));
+%     load(fullfile(basedir2,'gwo\data\output\ql.mat'));
 %     Mobj.gwo.nlwrs.node = -1*[ql(1,2);ql(1:length(inputConf.forceMJD)-1,2)]';
 %     Mobj.gwo.nlwrs.data = -1*[ql(1,2);ql(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\qh.mat'));
+%     load(fullfile(basedir2,'gwo\data\output\qh.mat'));
 %     Mobj.gwo.shtfl.node = [qh(1,2);qh(1:length(inputConf.forceMJD)-1,2)]';
 %     Mobj.gwo.shtfl.data = [qh(1,2);qh(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\qe.mat'));
+%     load(fullfile(basedir2,'gwo\data\output\qe.mat'));
 %     Mobj.gwo.lhtfl.node = [qe(1,2);qe(1:length(inputConf.forceMJD)-1,2)]';
 %     Mobj.gwo.lhtfl.data = [qe(1,2);qe(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\evp.mat'));
-%     load(fullfile(basedir,'gwo\data\output\prate.mat'));
-%     % convert kg/m2/s to m/s: 1 kg/m2/s = 0.001 m/s
-%     Mobj.gwo.evap.node = [evp(1,2)*-0.001;evp(1:length(inputConf.forceMJD)-1,2)*-0.001]';
-%     Mobj.gwo.evap.data = [evp(1,2)*-0.001;evp(1:length(inputConf.forceMJD)-1,2)*-0.001]';
-%     Mobj.gwo.prate.node = [prate(1,2)*0.001;prate(1:length(inputConf.forceMJD)-1,2)*0.001]';
-%     Mobj.gwo.prate.data = [prate(1,2)*0.001;prate(1:length(inputConf.forceMJD)-1,2)*0.001]';
-%     load(fullfile(basedir,'gwo\data\output\pres.mat'));
-%     Mobj.gwo.pres.node = 100*[pres(1,2);pres(1:length(inputConf.forceMJD)-1,2)]';
-%     Mobj.gwo.pres.data = 100*[pres(1,2);pres(1:length(inputConf.forceMJD)-1,2)]';
-%     % air 
-%     load(fullfile(basedir,'gwo\data\output\air.mat'));
-%     Mobj.gwo.air.node = [air(1,2);air(1:length(inputConf.forceMJD)-1,2)]';
-%     Mobj.gwo.air.data = [air(1,2);air(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\rhum.mat'));
-%     Mobj.gwo.rhum.node = 100*[rhum(1,2);rhum(1:length(inputConf.forceMJD)-1,2)]';
-%     Mobj.gwo.rhum.data = 100*[rhum(1,2);rhum(1:length(inputConf.forceMJD)-1,2)]';
-%     %%%%
-%     % cloud pe rhum sst vpres ghi
-%     load(fullfile(basedir,'gwo\data\output\cloud.mat'));
-%     Mobj.gwo.cloud = [cloud(1,2);cloud(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\pe.mat'));
-%     Mobj.gwo.pe = [pe(1,2);pe(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\sst.mat'));
-%     Mobj.gwo.sst = [sst(1,2);sst(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\vpres.mat'));
-%     Mobj.gwo.vpres = [vpres(1,2);vpres(1:length(inputConf.forceMJD)-1,2)]';
-%     load(fullfile(basedir,'gwo\data\output\ghi.mat'));
-%     Mobj.gwo.ghi = [ghi(1,2);ghi(1:length(inputConf.forceMJD)-1,2)]';
-%     clear q* wnd nhf prate evp pres air cloud pe rhum sst vpres ghi
-%     save('varb/Mobj_03.mat','Mobj','-v7.3','-nocompression');
-% end
-% 
-% if strcmpi(inputConf.doForcing, 'GWO')
-%     write_FVCOM_gwo_forcing(Mobj, ...
-%         fullfile(inputConf.outbase,[inputConf.casename,'_gwo']),...
-%         [inputConf.doForcing, ' atmospheric forcing data'],...
-%         inputConf.FVCOM_version, ...
-%         'floattime', true,...
-%         'julian', true,...
-%         'time dependent', true);
-% end
-% fprintf('Writing meteorological forcing file...done!\n');
-% 
+    load(fullfile(basedir2,'gwo\data\output\evp.mat'));
+    load(fullfile(basedir2,'gwo\data\output\prate.mat'));
+    % convert kg/m2/s to m/s: 1 kg/m2/s = 0.001 m/s
+    Mobj.gwo.evap.node = [evp(1,2)*-0.001;evp(1:length(inputConf.forceMJD)-1,2)*-0.001]';
+    Mobj.gwo.evap.data = [evp(1,2)*-0.001;evp(1:length(inputConf.forceMJD)-1,2)*-0.001]';
+    Mobj.gwo.prate.node = [prate(1,2)*0.001;prate(1:length(inputConf.forceMJD)-1,2)*0.001]';
+    Mobj.gwo.prate.data = [prate(1,2)*0.001;prate(1:length(inputConf.forceMJD)-1,2)*0.001]';
+    load(fullfile(basedir2,'gwo\data\output\pres.mat'));
+    Mobj.gwo.pres.node = 100*[pres(1,2);pres(1:length(inputConf.forceMJD)-1,2)]';
+    Mobj.gwo.pres.data = 100*[pres(1,2);pres(1:length(inputConf.forceMJD)-1,2)]';
+    % air 
+    load(fullfile(basedir2,'gwo\data\output\air.mat'));
+    Mobj.gwo.air.node = [air(1,2);air(1:length(inputConf.forceMJD)-1,2)]';
+    Mobj.gwo.air.data = [air(1,2);air(1:length(inputConf.forceMJD)-1,2)]';
+    load(fullfile(basedir2,'gwo\data\output\rhum.mat'));
+    Mobj.gwo.rhum.node = 100*[rhum(1,2);rhum(1:length(inputConf.forceMJD)-1,2)]';
+    Mobj.gwo.rhum.data = 100*[rhum(1,2);rhum(1:length(inputConf.forceMJD)-1,2)]';
+    %%%%
+    % cloud pe rhum sst vpres ghi
+    load(fullfile(basedir2,'gwo\data\output\cloud.mat'));
+    Mobj.gwo.cloud = [cloud(1,2);cloud(1:length(inputConf.forceMJD)-1,2)]';
+    load(fullfile(basedir2,'gwo\data\output\pe.mat'));
+    Mobj.gwo.pe = [pe(1,2);pe(1:length(inputConf.forceMJD)-1,2)]';
+    load(fullfile(basedir2,'gwo\data\output\sst.mat'));
+    Mobj.gwo.sst = [sst(1,2);sst(1:length(inputConf.forceMJD)-1,2)]';
+    load(fullfile(basedir2,'gwo\data\output\vpres.mat'));
+    Mobj.gwo.vpres = [vpres(1,2);vpres(1:length(inputConf.forceMJD)-1,2)]';
+    load(fullfile(basedir2,'gwo\data\output\ghi.mat'));
+    Mobj.gwo.ghi = [ghi(1,2);ghi(1:length(inputConf.forceMJD)-1,2)]';
+    clear q* wnd nhf prate evp pres air cloud pe rhum sst vpres ghi
+    save('varb/Mobj_03.mat','Mobj','-v7.3','-nocompression');
+end
+
+if strcmpi(inputConf.doForcing, 'GWO')
+    write_FVCOM_gwo_forcing(Mobj, ...
+        fullfile(inputConf.outbase,[inputConf.casename,'_gwo']),...
+        [inputConf.doForcing, ' atmospheric forcing data'],...
+        inputConf.FVCOM_version, ...
+        'floattime', true,...
+        'julian', true,...
+        'time dependent', true);
+end
+fprintf('Writing meteorological forcing file...done!\n');
+
 % 
 % % uwnd and vwnd
 % subplot(2,1,1);

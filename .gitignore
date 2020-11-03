@@ -9,3 +9,4 @@ Examples/*.mat
 *.24
 *.nc
 .DS_Store
+*.mat
